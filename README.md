@@ -52,15 +52,7 @@ Output 👎
 
 ![image](https://user-images.githubusercontent.com/38377027/127827865-35fc3e48-2f78-42cf-9b4f-12ab52584b7f.png)
 
-5) Run command "py gad.py --image girl.jpg" on command prompt
 
- ![image](https://user-images.githubusercontent.com/38377027/127827938-890088ca-c653-41c2-8389-c308b3df9bd4.png)
-
-Output 👎
-
-![image](https://user-images.githubusercontent.com/38377027/127827977-0858a54b-ba08-4eb6-880f-05d34776cc7e.png)
-
-![image](https://user-images.githubusercontent.com/38377027/127828007-0ec254f0-4af6-45df-8c7a-7dc7d28f712e.png)
 
 You can follow Output.docx file in folder.
 
